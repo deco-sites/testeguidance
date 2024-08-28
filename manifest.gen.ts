@@ -5,7 +5,7 @@
 import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 import * as $$$$$$0 from "./sections/Footer.tsx";
-import * as $$$$$$1 from "./sections/ItWorks.tsx";
+import * as $$$$$$1 from "./sections/Home.tsx";
 import * as $$$$$$2 from "./sections/Theme/Theme.tsx";
 
 const manifest = {

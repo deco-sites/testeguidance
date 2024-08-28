@@ -33,6 +33,7 @@ export default function Section({ name = "It Works!", count = 0 }: Props) {
 
       <div class="flex flex-col items-center justify-center gap-2">
         <div class="flex items-center gap-4">
+        <span>Teste</span>
           <button
             hx-target="#it-works"
             hx-swap="outerHTML"
